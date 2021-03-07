@@ -1,0 +1,23 @@
+/* 添加基础样式 */
+@tailwind base;
+/* 组件类和用插件注册的组件类 */
+@tailwind components;
+/* 这个指令用来注入tailwind的工具类和用插件注册的工具类 */
+@tailwind utilities;
+
+/* @layer utilities {
+    .text-big-font {
+        font-size: 3rem;
+        color: #3e113e;
+    }
+
+    .filter-grayscale {
+        background-color: rgba(0,0,0,0.7);
+    }
+    @variants hover, focus {
+        .filter-none {
+            background-color: rgba(0,0,0,0.3);
+        }
+      }
+    
+} */
