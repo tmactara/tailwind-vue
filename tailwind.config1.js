@@ -206,7 +206,7 @@ module.exports = {
       '7xl': ['4.5rem', { lineHeight: '1' }],
       '8xl': ['6rem', { lineHeight: '1' }],
       '9xl': ['8rem', { lineHeight: '1' }],
-      bigcountry: ['10rem', { lineHeight: '1' }]
+      nav: ['1.5rem', { lineHeight: '4.5' }]
     },
     fontWeight: {
       thin: '100',
